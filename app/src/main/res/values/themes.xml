@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Simple_calculator" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.Simple_calculator" parent="Base.Theme.Simple_calculator" />
+
+</resources>
